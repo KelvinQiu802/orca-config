@@ -1,0 +1,10 @@
+{
+    "change_filament_gcode": "",
+    "from": "User",
+    "inherits": "Creality Ender-3 S1 0.4 nozzle",
+    "is_custom_defined": "0",
+    "manual_filament_change": "1",
+    "name": "Ender3-S1",
+    "printer_settings_id": "Ender3-S1",
+    "version": "2.2.0.4"
+}
